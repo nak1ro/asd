@@ -1,0 +1,6 @@
+@dssdasd_HostAddress = http://localhost:5229
+
+GET {{dssdasd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
